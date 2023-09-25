@@ -1,0 +1,1 @@
+import{n as r}from"./index.a6f29f43.js";const _={};var l=function(){var n=this,e=n._self._c;return e("div",[n._v("elm")])},s=[],t=r(_,l,s,!1,null,null,null,null);const c=t.exports;export{c as default};

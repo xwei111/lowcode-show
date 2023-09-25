@@ -1,0 +1,1 @@
+System.register(["./index-legacy.de31069a.js"],(function(e,r){"use strict";var t;return{setters:[function(e){t=e.a}],execute:function(){e("g",(function(){var e=t.history.current.query,r=e.projectId,n=e.pageId;return{projectId:r?Number(r):null,pageId:n?Number(n):null}}))}}}));

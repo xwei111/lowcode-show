@@ -1,0 +1,1 @@
+import{n as t,g as a,i as r,G as _,K as i}from"./index.a6f29f43.js";const o={setup(){const{setType:n}=a();n("mobile");const e=r();_(()=>{window.qiankunStart||(window.qiankunStart=!0,i(),e.sendDataSource())})}};var c=function(){var e=this,s=e._self._c;return s("div",{attrs:{id:"cairh-preview"}})},d=[],u=t(o,c,d,!1,null,"299386f5",null,null);const f=u.exports;export{f as default};

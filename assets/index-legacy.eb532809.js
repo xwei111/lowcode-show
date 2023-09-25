@@ -1,0 +1,1 @@
+System.register(["./index-legacy.de31069a.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.n}],execute:function(){e("default",n({},(function(){return(0,this._self._c)("div",[this._v("elm")])}),[],!1,null,null,null,null).exports)}}}));
